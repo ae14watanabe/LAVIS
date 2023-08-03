@@ -5,7 +5,7 @@
 
 model:
   arch: blip_pretrain
-  pretrained: "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_capfilt_large.pth"
+  pretrained: "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_14M.pth"
 
   # vit encoder
   vit_type: "base"
